@@ -1,5 +1,82 @@
 # Employee_Data_Analysis_SQL
 
+
+**Dataset Summary
+**The dataset contains information about employee attrition at a company. Each row represents an individual employee and includes various attributes related to their demographic information, job role, and company-related details.
+
+**Columns and Descriptions**
+
+**Age**: The age of the employee.
+
+**Attrition**: Whether the employee has left the company ("Yes" or "No").
+
+**BusinessTravel**: The frequency of business travel (e.g., "Travel_Rarely", "Travel_Frequently").
+
+**DailyRate**: The daily rate of the employee.
+
+**Department**: The department in which the employee works (e.g., "Sales", "Research & Development").
+
+**DistanceFromHome**: The distance of the employee's home from the workplace.
+
+**Education**: The education level of the employee.
+
+**EducationField**: The field of education of the employee (e.g., "Life Sciences", "Medical").
+
+**EmployeeCount**: The count of employees (constant in this dataset).
+
+**EmployeeNumber**: A unique identifier for each employee.
+
+**EnvironmentSatisfaction**: The satisfaction level of the employee with the work environment.
+
+**Gender**: The gender of the employee.
+
+**HourlyRate**: The hourly rate of the employee.
+
+**JobInvolvement**: The level of involvement of the employee in their job.
+
+**JobLevel**: The job level of the employee.
+
+**JobRole**: The role of the employee within the company (e.g., "Sales Executive", "Research Scientist").
+
+**JobSatisfaction**: The job satisfaction level of the employee.
+
+**MaritalStatus**: The marital status of the employee (e.g., "Single", "Married").
+
+**MonthlyIncome**: The monthly income of the employee.
+
+**MonthlyRate**: The monthly rate of the employee.
+
+**NumCompaniesWorked**: The number of companies the employee has worked at.
+
+**Over18**: Indicates if the employee is over 18 years old.
+
+**OverTime**: Indicates if the employee works overtime ("Yes" or "No").
+
+**PercentSalaryHike**: The percentage increase in salary.
+
+**PerformanceRating**: The performance rating of the employee.
+
+**RelationshipSatisfaction**: The satisfaction level of the employee with their relationships at work.
+
+**StandardHours**: The standard working hours (constant in this dataset).
+
+**StockOptionLevel**: The stock option level of the employee.
+
+**TotalWorkingYears**: The total number of years the employee has worked.
+
+**TrainingTimesLastYear**: The number of training times attended by the employee last year.
+
+**WorkLifeBalance**: The work-life balance level of the employee.
+
+**YearsAtCompany**: The number of years the employee has been with the company.
+
+**YearsInCurrentRole**: The number of years the employee has been in their current role.
+
+**YearsSinceLastPromotion**: The number of years since the employee's last promotion.
+
+**YearsWithCurrManager**: The number of years the employee has been with their current manager.
+
+
 ### Employee Attrition Count 
 	
  This query retrieves and counts the occurrences of each attrition status (Attrition) from the employee_attrition table in the Attrition_dataset dataset. 
