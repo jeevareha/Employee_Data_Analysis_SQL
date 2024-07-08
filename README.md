@@ -1,7 +1,8 @@
 # Employee_Data_Analysis_SQL
 
 ### Employee Attrition Count 
-	This query retrieves and counts the occurrences of each attrition status (Attrition) from the employee_attrition table in the Attrition_dataset dataset of first-project-397223. 
+	
+ This query retrieves and counts the occurrences of each attrition status (Attrition) from the employee_attrition table in the Attrition_dataset dataset of first-project-397223. 
  It groups the data by Attrition, presenting the number of employees for each attrition status (Yes or No). 
  This summary helps analyze and understand attrition trends within the specified dataset for 
  potential insights and decision-making.
