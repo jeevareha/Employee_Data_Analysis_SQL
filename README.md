@@ -77,6 +77,7 @@ The dataset contains information about employee attrition at a company. Each row
 
 **YearsWithCurrManager**: The number of years the employee has been with their current manager.
 
+-------------------------------------------------------------------------------------------------------------------------
 
 ### Employee Attrition Count 
 	
