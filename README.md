@@ -2,7 +2,7 @@
 
 ### Employee Attrition Count 
 	
- This query retrieves and counts the occurrences of each attrition status (Attrition) from the employee_attrition table in the Attrition_dataset dataset of first-project-397223. 
+ This query retrieves and counts the occurrences of each attrition status (Attrition) from the employee_attrition table in the Attrition_dataset dataset. 
  It groups the data by Attrition, presenting the number of employees for each attrition status (Yes or No). 
  This summary helps analyze and understand attrition trends within the specified dataset for 
  potential insights and decision-making.
@@ -170,7 +170,7 @@ SELECT * FROM Analyse_Dept_Attrition_Possibility
 
 ### Analyse OVERTIME vs attrition
 
-This SQL query summarizes the count of employees based on their overtime status (Overtime) from the employee_attrition table in the Attrition_dataset of first-project-397223:
+This SQL query summarizes the count of employees based on their overtime status (Overtime) from the employee_attrition table in the Attrition_dataset:
 
 1. Overtime Count by Category:
 	Counts the number of employees (EmployeeNumber) grouped by their overtime status (Overtime).
