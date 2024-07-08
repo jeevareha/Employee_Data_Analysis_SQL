@@ -1,8 +1,9 @@
 # Employee_Data_Analysis_SQL
 
 
-**Dataset Summary
-**The dataset contains information about employee attrition at a company. Each row represents an individual employee and includes various attributes related to their demographic information, job role, and company-related details.
+**Dataset Summary**
+
+The dataset contains information about employee attrition at a company. Each row represents an individual employee and includes various attributes related to their demographic information, job role, and company-related details.
 
 **Columns and Descriptions**
 
